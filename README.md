@@ -1,0 +1,1 @@
+Um jogo da forca que criei enquanto estudava no curso de python pyPRO da Udemy, bem simples apenas para treinar conceitos de programação orientada à objetos e modularização.
